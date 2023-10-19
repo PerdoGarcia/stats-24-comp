@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  .container-md {
+    background-color: #ffcccb;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  .image {
+    width: 300px;
+  }
